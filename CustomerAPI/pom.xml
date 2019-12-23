@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.customer</groupId>
 	<artifactId>CustomerAPI</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version></version>
 	<name>CustomerAPI</name>
 	<description>Customer API</description>
 
